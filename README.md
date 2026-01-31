@@ -23,21 +23,21 @@ Time Complexity: O(n)
 
 Space Complexity: O(n)
 
-qotd-frontend/
-│
-├── index.html              # Entry HTML file
-├── package.json            # Project metadata & scripts
-├── vite.config.js          # Vite configuration
-├── tailwind.config.js      # Tailwind CSS configuration
-├── postcss.config.js       # PostCSS configuration
-├── package-lock.json       # Dependency lock file
-│
-├── src/
-│   ├── main.jsx            # React entry point
-│   ├── App.jsx             # Main QOTD UI layout
-│   └── index.css           # Global styles (Tailwind)
-│
-└── README.md               # Project documentation
+<img width="822" height="465" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/8dd7ed8d-38e6-4eec-91d9-40a98dee8d32" />
+
+Result:-
+
+<img width="1920" height="855" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/81c3ce24-8b1f-4ad7-943f-75b2f02a52a6" />
+
+How to Run the Project Locally:-
+1)) Install Dependencies
+npm install
+2)) Start the Development Server
+npm run dev
+
+
+
+
 
 🎨 UI & Design Decisions
 
